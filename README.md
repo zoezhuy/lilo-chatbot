@@ -1,1 +1,1 @@
-# lilo-chatbot
+# lilo-conversational-ai-project

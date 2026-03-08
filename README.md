@@ -150,9 +150,6 @@ Lilo 面向的是即将入学的新生群体。这个阶段的用户通常会遇
 
 ## 项目展示
 
-### 项目封面
-![Lilo Cover](./lilo-cover.png)
-
 ### Lilo Logo
 ![Lilo Logo](./LILO.png)
 

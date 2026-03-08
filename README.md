@@ -153,6 +153,13 @@ Lilo 面向的是即将入学的新生群体。这个阶段的用户通常会遇
 ### Lilo Logo
 ![Lilo Logo](./LILO.png)
 
+### 产品界面展示
+<p align="center">
+  <img src="./Container.png" width="30%" />
+  <img src="./Container-1.png" width="30%" />
+  <img src="./Container-2.png" width="30%" />
+</p>
+
 ## Logo 设计说明
 Lilo 的 logo 延续了整个项目“友好、轻量、可亲近”的产品定位。相较于传统更正式、更具距离感的信息系统视觉表达，这个项目更希望传递一种陪伴式、低门槛、面向学生的沟通体验。
 

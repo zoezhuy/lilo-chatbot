@@ -165,9 +165,22 @@ Lilo 是一个面向大学录取后学生的短信式聊天机器人，目标是
 ## 八、界面展示
 
 ### 项目界面展示
-![Lilo 界面展示 1](./lilo-ui-1.png)
-![Lilo 界面展示 2](./lilo-ui-2.png)
-![Lilo 界面展示 3](./lilo-ui-3.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./lilo-ui-1.png" width="260"><br>
+      <sub>首页 / 欢迎页</sub>
+    </td>
+    <td align="center">
+      <img src="./lilo-ui-2.png" width="260"><br>
+      <sub>入学清单页</sub>
+    </td>
+    <td align="center">
+      <img src="./lilo-ui-3.png" width="260"><br>
+      <sub>对话页面</sub>
+    </td>
+  </tr>
+</table>
 
 从界面与交互形式上看，Lilo 强调的是一种更轻量、更低门槛的支持方式：
 

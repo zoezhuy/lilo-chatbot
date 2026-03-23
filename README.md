@@ -1,4 +1,6 @@
 # Lilo Chatbot 项目案例
+
+**Tech: NLP · GPT-2 · Conversational AI · User Research · Figma · Excel · AI Product Evaluation**
 **AI 产品思维｜人机交互｜对话式系统｜用户研究**
 
 ![Lilo 项目封面](./lilo-cover.png)

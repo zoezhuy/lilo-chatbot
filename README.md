@@ -1,4 +1,4 @@
-# Lilo Chatbot 项目案例
+# Lilo Conversational AI Evaluation｜对话式 AI 产品评测
 
 **Tech: NLP · GPT-2 · Conversational AI · User Research · Figma · Excel · AI Product Evaluation**
 **AI 产品思维｜人机交互｜对话式系统｜用户研究**
@@ -12,7 +12,11 @@
 - **我的工作：** 30+ 使用场景评测框架、失败模式归因、用户与任务流分析、产品优化建议
 - **项目价值：** 通过更自然、低门槛的交互方式，降低信息理解成本并推动任务完成
   
-> 本仓库是对 UCI 研究工作进行脱敏和重新组织后的公开作品集案例。它展示评测方法、产品思考与重建示例，不包含研究参与者数据、内部原始记录或未公开系统代码。详见 [AI 产品评测框架](docs/EVALUATION_FRAMEWORK.md)。
+> 本仓库是对 UCI 研究工作进行脱敏和重新组织后的公开作品集案例。它展示评测方法、产品思考与重建示例，不包含研究参与者数据、内部原始记录或未公开系统代码。详见 [AI 产品评测框架](docs/evaluation-framework.md)。
+
+[评测框架](docs/evaluation-framework.md) · [失败模式分类](docs/failure-taxonomy.md) · [30+ 场景测试集](docs/sample-test-cases.md) · [RCA 模板](docs/root-cause-analysis-template.md) · [发现与建议](docs/findings-and-recommendations.md)
+
+> **量化说明：** 公开材料没有保留足以独立复核“问题诊断效率提升约 40%”的完整基线、样本量与计时记录，因此本仓库不把该数字作为已验证成果。对外简历建议改为“建立结构化评测与根因分析流程，提升问题诊断的一致性与可追踪性”。
 ---
 
 ## 一、项目背景
